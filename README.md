@@ -12,3 +12,11 @@ Remove any languages of a SKOS file that are not needed.
 
 ## Hierarchy subbranches
 Select a concept of a SKOS file and only keep concepts that are parents or ancestors of this concept.
+
+# Contact information
+- Creator: Felix Kraus
+- Email (subsitute accordingly): firstname.lastname (at) kit (dot) edu
+- License owner: Karlsruhe Institute of Technology (KIT)
+
+# Acknowledgement
+Development of this software product was funded by the research program “Engineering Digital Futures” of the Helmholtz Association of German Research Centers.
